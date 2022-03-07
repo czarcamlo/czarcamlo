@@ -11,3 +11,11 @@
 <li>📙 2022 Goals: Learn more about Docker and MongoDB.</li>
 <li>🎉 Fun Fact: I love play futbol soccer and swimming.</li>
 </ul>
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="" alt="java" width="25" height="25" />
+<img src="" alt="javascript" width="25" height="25" />
+<img src="" alt="spingboot" width="25" height="25" />
+<img src="" alt="react" width="25" height="25" />
+<img src="" alt="git" width="25" height="25" />
+  <img src="" alt="postman" width="25" height="25" />
